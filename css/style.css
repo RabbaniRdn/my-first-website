@@ -1,0 +1,21 @@
+.carousel-item-bg{
+    background-color: #fcecea;
+}
+/* shose  bags*/
+.panda-footer{
+    background-color: white;
+    border: 0;
+    
+}
+.panda-footer button{
+    color:white;
+}
+/* subscribe */
+.subscribe{
+    background-color: #fceae8;
+}
+#subscribe .btn{
+    padding: 7px 20px;
+    color:white;
+    
+}
